@@ -3,7 +3,7 @@
 - Studying my final year of the CS master @ KTH
 
 ### Selected repos
-- [EmojiBombers](https://github.com/mans-andersson/EmojiBombers) A game inspired by Bomberman. Server written in Go, client written in Python
+- [EmojiBombers](https://github.com/mans-andersson/EmojiBombers) A game inspired by Bomberman. Server written in Go, client written in Python.
 - [Haskade](https://github.com/mans-andersson/haskade) A clone of the arcade game Blockade, made in Haskell
 - [Whobethatpokemon](https://github.com/vickstrom/whobethatpokemon) Guess Pokémon with your friends, created with Firebase, React and PokeAPI
 
