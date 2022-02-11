@@ -2,9 +2,12 @@
 - Always wanting to learn new exciting things
 - Studying my final year of the CS master @ KTH
 
-### Repos
+### Selected repos
 - [EmojiBombers](https://github.com/mans-andersson/EmojiBombers) A game inspired by Bomberman. Server written in Go, client written in Python.
 - [Haskade](https://github.com/mans-andersson/haskade) A clone of the arcade game Blockade, made in Haskell.
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/mansander/)
 
 <!---
 mans-andersson/mans-andersson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
