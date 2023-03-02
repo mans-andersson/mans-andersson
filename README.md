@@ -1,6 +1,4 @@
-### Hej, I’m Måns
-- Always wanting to learn new exciting things
-- Studying my final year of the CS master @ KTH
+### Hej 🌞🌊
 
 ### Selected repos
 - [EmojiBombers](https://github.com/mans-andersson/EmojiBombers) A game inspired by Bomberman. Server written in Go, client written in Python.
